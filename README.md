@@ -4,7 +4,6 @@ Course materials are organized by week.
 
 |Week  | General Topic  | Link to Materials   | 
 |---|:---|:---|
-|    | Course How-tos   | [how_tos](https://github.com/COGS108/Lectures-Wi21/tree/master/how_tos)   | 
 | 01 | Introduction to Data Science   | [01_intro](https://github.com/COGS108/Lectures-Wi21/tree/master/01_intro)   | 
 | 02 | Version Control & Data  | [02_python](https://github.com/COGS108/Lectures-Wi21/tree/master/02_python) |
 | 03 | Data Wrangling   | [03_data](https://github.com/COGS108/Lectures-Wi21/tree/master/03_data) |
